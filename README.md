@@ -1,5 +1,5 @@
 
-# Angular / TypeScript Memory Consumption (combineLatest + Object Spreading)
+# Angular / TypeScript Memory Consumption (combineLatest + Object Merging)
 
 This repository contains some code examples to illustrate the memory consumption using RxJS combineLatest and object merging.
 
