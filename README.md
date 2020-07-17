@@ -7,6 +7,8 @@ We experienced a huge memory consumption at compilation time, which mostly resul
 
 All examples can be found in https://github.com/qupaya/ng-example-obj-spread-bug/blob/main/src/app/app.component.ts
 
+An issue for Angular has already been filed: https://github.com/angular/angular/issues/38116
+
 # Code & Performance
 
 ## **WORKING:** combineLatest + 6 Observables as Array
