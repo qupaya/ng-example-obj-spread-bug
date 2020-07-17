@@ -5,6 +5,8 @@ This repository contains some code examples to illustrate the memory consumption
 
 We experienced a huge memory consumption at compilation time, which mostly resulted in a node.js out of memory exception during ng build (ng serve, ng test).
 
+All examples can be found in https://github.com/qupaya/ng-example-obj-spread-bug/blob/main/src/app/app.component.ts
+
 # Code & Performance
 
 ## **WORKING:** combineLatest + 6 Observables as Array
