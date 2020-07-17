@@ -99,7 +99,7 @@ Command: `/usr/bin/time -l ng build`
     174244  involuntary context switches
 ```
 
-## **WORKING:** combineLatest + 7 Observables as single arguments
+## **WORKING:** combineLatest + 7 Observables as separate arguments
 
 We experienced no issues using combineLatest without an array.
 
